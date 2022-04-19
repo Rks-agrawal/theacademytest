@@ -1,0 +1,55 @@
+html, body {
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.top-head {
+	width: 100%;
+	height: 14%;
+}
+
+.heading {
+	background-color: #2d70b6;
+	width: 100%;
+	height: 60px;
+}
+.r-form table{
+	border: 1px solid #cacaca;
+	width: 520px;
+}
+
+.r-form td {
+	display: table-cell;
+	vertical-align: inherit;
+	height: 35px;
+	padding-left: 15px;
+	text-align: left;
+}
+
+.r-form input[type="text"], input[type="email"], input[type="number"],input[type="date"],input[type="submit"] {
+	height: 35px;
+	border: 1px solid #cacaca;
+	margin-bottom: 1em;
+	padding: 0 16px;
+	width: 325px !important;
+	
+}
+
+.r-form-header {
+	background: none repeat scroll 0 0 #DDD;
+	border: 1px solid #dbdbdb;
+	border-radius: 5px 5px 0 0;
+	color: #444;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 8px 22px;
+	width: 475px;
+}
+
+.btn-primary-blue {
+	background-color: #38aae9;
+	border-color: #38aae9;
+	color: #ffffff;
+}
